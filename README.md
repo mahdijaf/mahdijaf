@@ -1,4 +1,4 @@
-Hi, 👋 I'm Marty Joday – Azure Cloud Architect
+Hi, 👋 I'm Mahdee (Marty) – Azure Cloud Architect
 Welcome to my GitHub! I'm a skilled Azure Cloud Architect with expertise in designing, implementing, and optimizing cloud-based solutions. I specialize in crafting scalable, secure, and high-performance architectures tailored to meet diverse business needs.
 
 What I Bring to the Table:
